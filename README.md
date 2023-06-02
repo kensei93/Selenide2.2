@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1kod89i8xtuhp77a?svg=true)](https://ci.appveyor.com/project/Stanislav-Litvinov/aqa-2-2-selenide-9huk4)
+[![Build status](https://ci.appveyor.com/api/projects/status/1mb9v3dx629n1c78?svg=true)](https://ci.appveyor.com/project/kensei93/selenide2-2)
